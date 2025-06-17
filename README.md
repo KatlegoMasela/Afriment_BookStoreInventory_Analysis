@@ -74,7 +74,6 @@ trends and  patterns.
 
 **Deliverables:**
 - Data insight report (Word).
-- Dashboard and charts (Excel).
 - PowerPoint presentation summarizing results.
 
 ---
@@ -87,7 +86,7 @@ trends and  patterns.
 | **Pandas (Python)**    | Data cleaning and storage              |
 | **Pytesseract (OCR)**  | Extracted text from images             |
 | **PowerPoint & Word**  | Report writing and presentation        |
-| **Google Sheets**      | Web-based form and data entry testing  |
+| **Matplotlib & Seaborn**      | Data Visualization  |
 
 ---
 
@@ -96,7 +95,7 @@ trends and  patterns.
 - Accurate and fast manual data entry
 - Data cleaning and structuring using Python
 - Data validation and error correction
-- Visualization and KPI reporting
+- Visualization and reporting
 - Automation via OCR and Excel formulas
 - Data storytelling and presentation
 
