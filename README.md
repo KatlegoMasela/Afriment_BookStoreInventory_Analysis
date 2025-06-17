@@ -68,8 +68,8 @@ This project documents a four-week internship experience focused on mastering da
 - Practiced basic data privacy and security handling.
 
 **Practical Tasks:**
-- Built Excel dashboards for KPI tracking.
-- Generated visualizations showing data trends.
+- Developed data visualizations using Matplotlib and Seaborn to show data
+trends and  patterns.
 - Developed and presented a report in Word & PowerPoint format.
 
 **Deliverables:**
